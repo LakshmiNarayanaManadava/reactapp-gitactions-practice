@@ -7,7 +7,7 @@ function App() {
  return(
   <div>
     <h2>Welcome to react app </h2>
-    <p>This is jenkins practice </p>
+    <p>This is react deployement practice using gitactions in git</p>
   </div>
  )
 }
