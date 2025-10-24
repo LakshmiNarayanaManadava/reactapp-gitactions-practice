@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/LakshmiNarayanaManadava/reactapp-gitactions-practice.git",
+  "homepage": "https://github.com/LakshmiNarayanaManadava/reactapp-gitactions-practice",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
