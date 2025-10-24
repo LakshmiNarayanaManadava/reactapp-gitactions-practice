@@ -8,6 +8,7 @@ function App() {
   <div>
     <h2>Welcome to react app </h2>
     <p>This is react deployement practice using gitactions in git</p>
+    <p>CI/CD</p>
   </div>
  )
 }
